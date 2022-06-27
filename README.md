@@ -35,9 +35,11 @@ The variance increases pretty significantly from Lot 1 to Lot 2, and then from L
 ## T-Tests on Suspension Coils
 
 ## Study Design: MechaCar vs Competition
-A statistical study that can quantity MechaCars ability to perform against competition:
+A statistical study that can quantity MechaCars ability to perform against competition: I would want to see this car against others comparable in the industry. 
 
 > What metric or metrics are you going to test?
+
+The common things I would want to see are MGP, MPT, drag, handling, speed, 0-60mpg time.
 
 > What is the null hypothesis or alternative hypothesis?
 
