@@ -11,7 +11,7 @@ In this analysis we will perform the following in an attempt to understand produ
 
 > Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-The p value is very small, smaller than the .05 that shows significance. 
+The p value is very small, smaller than the .05 that shows significance. 5.08e-08. Very small.
 
 > Is the slope of the linear model considered to be zero? Why or why not?
 
