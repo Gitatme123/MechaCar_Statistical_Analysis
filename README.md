@@ -21,6 +21,8 @@ There is then sufficient evidence to reject our null hypothesis which means that
 
 This linear model with a very low p score does mean that it is an accurate predictor of mpg in MechaCar prototypes.
 <img width="642" alt="Screen Shot 2022-06-27 at 11 53 48 AM" src="https://user-images.githubusercontent.com/95602006/175994632-2a81b53b-2d1a-4db4-a6e9-a314cdaabeb1.png">
+<img width="592" alt="Screen Shot 2022-06-27 at 11 55 20 AM" src="https://user-images.githubusercontent.com/95602006/175994959-88313aa8-70a6-4966-9d92-c38a96201812.png">
+
 
 
 ## Summary Statistics on Suspension Coils
