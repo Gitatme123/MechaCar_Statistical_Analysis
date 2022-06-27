@@ -10,11 +10,11 @@ In this analysis we will perform the following in an attempt to understand produ
 ## Linear Regression to Predict MGP
 
 > Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
+The p value is very small, smaller than the .05 that shows significance. 
 > Is the slope of the linear model considered to be zero? Why or why not?
-
+There is then sufficient evidence to reject our null hypothesis which means that the slope of our linear model is not 0.
 > Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
+This linear model with a very low p score does mean that it is an accurate predictor of mpg in MechaCar prototypes.
 ## Summary Statistics on Suspension Coils
 
 ## T-Tests on Suspension Coils
