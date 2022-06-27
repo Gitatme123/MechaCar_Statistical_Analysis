@@ -14,6 +14,8 @@ In this analysis we will perform the following in an attempt to understand produ
 ## T-Tests on Suspension Coils
 
 ## Study Design: MechaCar vs Competition
+A statistical study that can quantity MechaCars ability to perform against competition:
+
 > What metric or metrics are you going to test?
 
 > What is the null hypothesis or alternative hypothesis?
